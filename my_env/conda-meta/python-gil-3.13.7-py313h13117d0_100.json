@@ -1,0 +1,34 @@
+{
+  "build": "py313h13117d0_100",
+  "build_number": 100,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python 3.13.7.*",
+    "python_abi * *_cp313"
+  ],
+  "extracted_package_dir": "C:\\Users\\chinn\\anaconda3\\pkgs\\python-gil-3.13.7-py313h13117d0_100",
+  "files": [],
+  "fn": "python-gil-3.13.7-py313h13117d0_100.conda",
+  "license": "PSF-2.0",
+  "link": {
+    "source": "C:\\Users\\chinn\\anaconda3\\pkgs\\python-gil-3.13.7-py313h13117d0_100",
+    "type": 1
+  },
+  "md5": "8d3bf08a78f5091c6df10d28ff4e64a8",
+  "name": "python-gil",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\chinn\\anaconda3\\pkgs\\python-gil-3.13.7-py313h13117d0_100.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "733416bdddd3819c376570ea7b0e397da14c175f6a054d1277b660915f47e46e",
+  "size": 52240,
+  "subdir": "noarch",
+  "timestamp": 1757449020000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/python-gil-3.13.7-py313h13117d0_100.conda",
+  "version": "3.13.7"
+}
